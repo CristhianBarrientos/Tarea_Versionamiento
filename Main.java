@@ -8,7 +8,7 @@ public class Main {
         nombre = entrada.nextLine();
         System.out.println("Bienvenido a Progra 2 2022 "+nombre);
         
-	
+	//comentario de segunda version
 	
 
     }
